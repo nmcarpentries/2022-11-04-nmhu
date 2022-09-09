@@ -242,6 +242,11 @@ Display the contact email address set in the configuration file.
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
 
+<p>
+  <strong>Registration:</strong>
+  To register, please complete the form at <a href="https://www.nmepscor.org/what-we-do/programs/nmhu-data-carpentry-workshop">https://www.nmepscor.org/what-we-do/programs/nmhu-data-carpentry-workshop</a>. Registration is capped at 30 people.
+</p>
+
 {% comment %}
 WHO CAN ATTEND?
 
