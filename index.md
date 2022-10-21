@@ -244,7 +244,7 @@ Display the contact email address set in the configuration file.
 
 <p>
   <strong>Registration:</strong>
-  To register, please complete the form at <a href="https://www.nmepscor.org/what-we-do/programs/nmhu-data-carpentry-workshop">https://www.nmepscor.org/what-we-do/programs/nmhu-data-carpentry-workshop</a>. Registration is capped at 30 people.
+  Registration for this workshop is closed.
 </p>
 
 {% comment %}
